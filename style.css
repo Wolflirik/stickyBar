@@ -1,0 +1,25 @@
+.header{
+  height:100px;
+  background-color:#87E8C9;
+  margin-bottom:25px;
+}
+.footer{
+  height:100px;
+  background-color:#87E8C9;
+  margin-top:25px;
+}
+.content-inner{
+  background-color:#363636;
+  height:3000px;
+}
+.popup-content{
+	background-color:#D6E887;
+  height:2000px;
+}
+.sidebar-inner{
+  background-color:#87E891;
+}
+.simple-popup{
+	height:360px;
+	overflow-y: auto;
+}
